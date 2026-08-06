@@ -1,10 +1,11 @@
 ---
 lessonId: 181951
 language: "java"
-attempts: 0
+attempts: 1
 runCount: 1
-elapsedSec: 26
+elapsedSec: 324
 firstSeen: 2026-08-06
+lastSubmit: 2026-08-06
 ---
 
 # 181951
@@ -13,4 +14,6 @@ firstSeen: 2026-08-06
 
 ## Attempt history
 
-No submission yet.
+| # | Time | Verdict | Testcases | Elapsed | Diff |
+|---|---|---|---|---|---|
+| 1 | 06:58 | UNKNOWN | - | 5m24s | no |
