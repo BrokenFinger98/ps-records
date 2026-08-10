@@ -12,7 +12,9 @@
 # OS
 .DS_Store
 
-# The tracker's working state, added by the server itself: it lives here so that it
-# sits beside the records it describes, and `.ps/raw/recorded/` is a copy of every
-# attempts/00N.raw.jsonl. Committing it would push the whole capture history twice.
+# The tracker's working state, added by the server itself. It lives here so that it sits
+# beside the records it describes, and it is not records: frames still being captured,
+# per-problem timers, when the last push succeeded. `.ps/raw/recorded/` keeps one file
+# per code run, and a run gets pressed dozens of times while solving one problem —
+# committing them would bury your solving history in its own scratch work.
 .ps/
