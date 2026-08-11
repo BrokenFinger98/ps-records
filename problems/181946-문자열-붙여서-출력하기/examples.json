@@ -1,0 +1,10 @@
+[
+    {
+        "input": "\"apple pen\"",
+        "expected": "\"applepen\""
+    },
+    {
+        "input": "\"Hello World!\"",
+        "expected": "\"HelloWorld!\""
+    }
+]
