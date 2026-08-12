@@ -8,3 +8,5 @@ solved: 0
 # divide_and_conquer
 
 Met 0 of 4, passed 0.
+
+Shares problems with: [[tags/implementation]] [[tags/recursion]] [[tags/string]] [[tags/trees]]

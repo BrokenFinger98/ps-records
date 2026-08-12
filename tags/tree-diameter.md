@@ -8,3 +8,5 @@ solved: 0
 # tree_diameter
 
 Met 0 of 1, passed 0.
+
+Shares problems with: [[tags/bfs]] [[tags/trees]]

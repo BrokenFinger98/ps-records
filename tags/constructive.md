@@ -8,3 +8,5 @@ solved: 0
 # constructive
 
 Met 0 of 3, passed 0.
+
+Shares problems with: [[tags/graphs]] [[tags/greedy]] [[tags/recursion]] [[tags/sorting]] [[tags/trees]]

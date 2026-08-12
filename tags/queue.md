@@ -8,3 +8,5 @@ solved: 0
 # queue
 
 Met 0 of 6, passed 0.
+
+Shares problems with: [[tags/stack]]
