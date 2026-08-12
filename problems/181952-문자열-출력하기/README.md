@@ -18,6 +18,8 @@ lastSubmit: 2026-08-12
 
 #programmers #Lv0 #implementation
 
+Tags: [[tags/implementation]]
+
 ## Attempt history
 
 | # | Time | Verdict | Testcases | Elapsed | Diff |
