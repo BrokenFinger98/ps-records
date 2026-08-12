@@ -8,8 +8,8 @@ acceptanceRate: 90
 tags: ["arithmetic"]
 verdict: PASS
 attempts: 5
-runCount: 9
-elapsedSec: 77251
+runCount: 10
+elapsedSec: 79286
 firstSeen: 2026-08-11
 lastSubmit: 2026-08-12
 ---
