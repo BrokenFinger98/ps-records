@@ -1,0 +1,6 @@
+[
+    {
+        "input": "\"HelloWorld!\"",
+        "expected": "\"HelloWorld!\""
+    }
+]
