@@ -3,6 +3,7 @@ tag: implementation
 catalogTotal: 379
 attempted: 2
 solved: 2
+status: passed
 ---
 
 # implementation

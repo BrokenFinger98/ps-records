@@ -3,6 +3,7 @@ tag: bitmask
 catalogTotal: 13
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # bitmask

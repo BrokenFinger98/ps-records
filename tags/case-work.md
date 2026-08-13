@@ -3,6 +3,7 @@ tag: case_work
 catalogTotal: 4
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # case_work

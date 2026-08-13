@@ -1,7 +1,7 @@
 ---
 lessonId: 120802
 title: "두 수의 합 구하기"
-language: "python3"
+language: "java"
 level: 0
 part: "코딩테스트 입문"
 acceptanceRate: 90

@@ -3,6 +3,7 @@ tag: offline_queries
 catalogTotal: 1
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # offline_queries

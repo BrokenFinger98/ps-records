@@ -3,6 +3,7 @@ tag: arithmetic
 catalogTotal: 48
 attempted: 2
 solved: 2
+status: passed
 ---
 
 # arithmetic

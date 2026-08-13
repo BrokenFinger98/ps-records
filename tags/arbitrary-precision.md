@@ -3,6 +3,7 @@ tag: arbitrary_precision
 catalogTotal: 1
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # arbitrary_precision

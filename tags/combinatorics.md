@@ -3,6 +3,7 @@ tag: combinatorics
 catalogTotal: 16
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # combinatorics

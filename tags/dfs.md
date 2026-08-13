@@ -3,6 +3,7 @@ tag: dfs
 catalogTotal: 9
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # dfs

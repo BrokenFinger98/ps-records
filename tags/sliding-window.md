@@ -3,6 +3,7 @@ tag: sliding_window
 catalogTotal: 7
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # sliding_window

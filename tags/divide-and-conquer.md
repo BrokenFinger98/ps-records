@@ -3,6 +3,7 @@ tag: divide_and_conquer
 catalogTotal: 4
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # divide_and_conquer

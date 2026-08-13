@@ -3,6 +3,7 @@ tag: queue
 catalogTotal: 6
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # queue

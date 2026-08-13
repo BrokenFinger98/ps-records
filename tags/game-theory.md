@@ -3,6 +3,7 @@ tag: game_theory
 catalogTotal: 1
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # game_theory

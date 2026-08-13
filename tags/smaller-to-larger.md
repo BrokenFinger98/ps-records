@@ -3,6 +3,7 @@ tag: smaller_to_larger
 catalogTotal: 1
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # smaller_to_larger

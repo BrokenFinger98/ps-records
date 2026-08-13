@@ -3,6 +3,7 @@ tag: simulation
 catalogTotal: 48
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # simulation

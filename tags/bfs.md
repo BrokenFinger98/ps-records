@@ -3,6 +3,7 @@ tag: bfs
 catalogTotal: 24
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # bfs

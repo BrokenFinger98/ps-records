@@ -3,6 +3,7 @@ tag: graphs
 catalogTotal: 11
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # graphs

@@ -3,6 +3,7 @@ tag: splay_tree
 catalogTotal: 1
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # splay_tree

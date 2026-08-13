@@ -3,6 +3,7 @@ tag: difference_array
 catalogTotal: 4
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # difference_array

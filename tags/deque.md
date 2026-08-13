@@ -3,6 +3,7 @@ tag: deque
 catalogTotal: 1
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # deque

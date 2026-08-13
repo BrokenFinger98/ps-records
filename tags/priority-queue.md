@@ -3,6 +3,7 @@ tag: priority_queue
 catalogTotal: 10
 attempted: 0
 solved: 0
+status: untouched
 ---
 
 # priority_queue
