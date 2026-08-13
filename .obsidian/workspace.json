@@ -183,6 +183,8 @@
   },
   "active": "ac83ea6637b27c44",
   "lastOpenFiles": [
+    "tags/arithmetic.md",
+    "problems/120802-두-수의-합-구하기/README.md",
     "README.md",
     "tags/linear-algebra.md",
     "tags/dp.md",
@@ -190,7 +192,6 @@
     "problems/120802-두-수의-합-구하기/runner_test.py",
     "problems/120802-두-수의-합-구하기/Solution.py",
     "problems/120802-두-수의-합-구하기/attempts/001.java",
-    "problems/59034-모든-레코드-조회하기/README.md",
-    "problems/120802-두-수의-합-구하기/README.md"
+    "problems/59034-모든-레코드-조회하기/README.md"
   ]
 }
