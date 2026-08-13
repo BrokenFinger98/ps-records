@@ -9,4 +9,4 @@ solved: 2
 
 Met 2 of 379, passed 2.
 
-Shares problems with: [[tags/ad-hoc]] [[tags/arithmetic]] [[tags/backtracking]] [[tags/bfs]] [[tags/bitmask]] [[tags/bruteforcing]] [[tags/case-work]] [[tags/deque]] [[tags/difference-array]] [[tags/disjoint-set]] [[tags/divide-and-conquer]] [[tags/greedy]] [[tags/hash-set]] [[tags/linked-list]] [[tags/math]] [[tags/parsing]] [[tags/prefix-sum]] [[tags/primality-test]] [[tags/recursion]] [[tags/set]] [[tags/simulation]] [[tags/sliding-window]] [[tags/sorting]] [[tags/stack]] [[tags/string]] [[tags/trees]] [[tags/two-pointer]]
+Passed: [[problems/59034-모든-레코드-조회하기/README|모든 레코드 조회하기]] [[problems/181952-문자열-출력하기/README|문자열 출력하기]]

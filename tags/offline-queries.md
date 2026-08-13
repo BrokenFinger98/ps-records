@@ -8,5 +8,3 @@ solved: 0
 # offline_queries
 
 Met 0 of 1, passed 0.
-
-Shares problems with: [[tags/dp]] [[tags/segtree]]

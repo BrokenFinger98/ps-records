@@ -8,5 +8,3 @@ solved: 0
 # sieve
 
 Met 0 of 3, passed 0.
-
-Shares problems with: [[tags/math]] [[tags/precomputation]]

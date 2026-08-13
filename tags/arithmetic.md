@@ -9,4 +9,4 @@ solved: 2
 
 Met 2 of 48, passed 2.
 
-Shares problems with: [[tags/bruteforcing]] [[tags/implementation]] [[tags/math]] [[tags/pythagoras]] [[tags/string]]
+Passed: [[problems/120802-두-수의-합-구하기/README|두 수의 합 구하기]] [[problems/120804-두-수의-곱-구하기/README|두 수의 곱 구하기]]
