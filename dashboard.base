@@ -158,5 +158,3 @@ views:
     sort:
       - property: catalogTotal
         direction: DESC
-
-# edited by hand — the server must not touch this
