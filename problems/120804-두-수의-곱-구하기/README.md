@@ -20,6 +20,8 @@ lastSubmit: 2026-08-12
 
 Tags: [[tags/arithmetic]]
 
+![[statement]]
+
 ## Attempt history
 
 | # | Time | Verdict | Testcases | Elapsed | Diff |

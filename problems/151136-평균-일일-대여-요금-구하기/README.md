@@ -21,6 +21,8 @@ lastSubmit: 2026-08-13
 
 Tags: [[tags/implementation]]
 
+![[statement]]
+
 ## Attempt history
 
 | # | Time | Verdict | Testcases | Elapsed | Diff |
