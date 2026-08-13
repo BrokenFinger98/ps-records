@@ -41,9 +41,6 @@ properties:
 views:
   - type: table
     name: Recent
-    filters:
-      and:
-        - note.lessonId != null
     order:
       - title
       - level
