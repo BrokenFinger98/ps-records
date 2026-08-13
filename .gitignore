@@ -18,3 +18,10 @@
 # per code run, and a run gets pressed dozens of times while solving one problem —
 # committing them would bury your solving history in its own scratch work.
 .ps/
+
+# Obsidian's own state, added by the server because it is the thing doing the
+# committing. Which panes you had open and how the graph is zoomed are not records, and
+# `git add --all` cannot tell the difference — one backup commit here contained nothing
+# but a changed graph setting, under a message about records. Delete this line if you
+# would rather version your vault's settings; nothing else depends on it.
+.obsidian/
