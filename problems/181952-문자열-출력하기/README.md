@@ -18,9 +18,9 @@ lastSubmit: 2026-08-12
 
 #programmers #Lv0 #implementation
 
-Tags: [[tags/implementation]]
+Tags: [implementation](../../tags/implementation.md)
 
-![[statement]]
+[Problem statement](statement.md)
 
 ## Attempt history
 

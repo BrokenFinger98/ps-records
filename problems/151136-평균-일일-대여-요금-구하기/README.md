@@ -11,7 +11,7 @@ verdict: PASS
 attempts: 1
 runCount: 1
 elapsedSec: 51
-firstSeen: 2026-08-13
+firstSeen: 2026-08-14
 lastSubmit: 2026-08-13
 ---
 
@@ -19,9 +19,9 @@ lastSubmit: 2026-08-13
 
 #programmers #Lv1 #implementation
 
-Tags: [[tags/implementation]]
+Tags: [implementation](../../tags/implementation.md)
 
-![[statement]]
+[Problem statement](statement.md)
 
 ## Attempt history
 

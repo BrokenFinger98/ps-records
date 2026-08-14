@@ -18,9 +18,9 @@ lastSubmit: 2026-08-12
 
 #programmers #Lv0 #arithmetic
 
-Tags: [[tags/arithmetic]]
+Tags: [arithmetic](../../tags/arithmetic.md)
 
-![[statement]]
+[Problem statement](statement.md)
 
 ## Attempt history
 
