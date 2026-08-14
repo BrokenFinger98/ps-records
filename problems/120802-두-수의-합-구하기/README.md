@@ -1,0 +1,60 @@
+---
+lessonId: 120802
+title: "두 수의 합 구하기"
+language: "java"
+kind: algorithm
+level: 0
+part: "코딩테스트 입문"
+acceptanceRate: 90
+tags: ["arithmetic"]
+verdict: PASS
+attempts: 1
+runCount: 0
+elapsedSec: 106
+firstSeen: 2026-08-14
+lastSubmit: 2026-08-14
+---
+
+# 두 수의 합 구하기
+
+#programmers #Lv0 #arithmetic
+
+Tags: [arithmetic](../../tags/arithmetic.md)
+
+## Attempt history
+
+| # | Time | Verdict | Testcases | Elapsed | Diff |
+|---|---|---|---|---|---|
+| 1 | 15:04 | PASS | 18/18 | 1m46s | no |
+
+## Problem
+
+정수 `num1`과 `num2`가 주어질 때, `num1`과 `num2`의 합을 return하도록 soltuion 함수를 완성해주세요.
+
+---
+
+##### 제한사항
+
+- -50,000 ≤ `num1` ≤ 50,000
+- -50,000 ≤ `num2` ≤ 50,000
+
+---
+
+#### 입출력 예
+
+| num1 | num2 | result |
+| --- | --- | --- |
+| 2 | 3 | 5 |
+| 100 | 2 | 102 |
+
+---
+
+##### 입출력 예 설명
+
+입출력 예 #1
+
+- `num1`이 2이고 `num2`가 3이므로 2 + 3 = 5를 return합니다.
+
+입출력 예 #2
+
+- `num1`이 100이고 `num2`가 2이므로 100 + 2 = 102를 return합니다.
