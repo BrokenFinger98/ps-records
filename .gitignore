@@ -19,15 +19,22 @@
 # committing them would bury your solving history in its own scratch work.
 .ps/
 
-# Obsidian's own state, added by the server because it is the thing doing the
-# committing. Which panes you had open and how the graph is zoomed are not records, and
-# `git add --all` cannot tell the difference — one backup commit here contained nothing
-# but a changed graph setting, under a message about records. Delete this line if you
-# would rather version your vault's settings; nothing else depends on it.
-.obsidian/
 
 # The other editor's state, here for the same reason as the line above (#304). This is a
 # Kotlin project, so a vault opened in IntelliJ is not an edge case — and `git add --all`
 # cannot tell a window layout from a record any better than it could tell a graph zoom.
 # Delete this line if you would rather version it; nothing else depends on it.
 .idea/
+
+# Obsidian's window layout — which panes are open, where they are scrolled. It changes
+# because the vault was *opened*, and `git add --all` cannot tell that from a record: one
+# backup commit carried nothing else, under a message about records (#234).
+#
+# Only this file. `graph.json` beside it holds the colour groups you built, and the rest
+# are settings — versioning them is why a vault cloned onto another machine opens
+# configured rather than blank, which is the same promise the records themselves make
+# (#306, narrowing the rule that took the whole directory).
+.obsidian/workspace.json
+
+# The same file, from the phone.
+.obsidian/workspace-mobile.json
