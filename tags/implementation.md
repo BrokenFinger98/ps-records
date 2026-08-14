@@ -1,11 +1,13 @@
 ---
 tag: implementation
 catalogTotal: 379
-attempted: 0
-solved: 0
-status: untouched
+attempted: 1
+solved: 1
+status: passed
 ---
 
 # implementation
 
-Met 0 of 379, passed 0.
+Met 1 of 379, passed 1.
+
+Passed: [중앙값 구하기](../problems/120811-중앙값-구하기/README.md)
