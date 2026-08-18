@@ -1,13 +1,11 @@
 ---
 tag: arithmetic
 catalogTotal: 48
-attempted: 1
-solved: 1
-status: passed
+attempted: 0
+solved: 0
+status: untouched
 ---
 
 # arithmetic
 
-Met 1 of 48, passed 1.
-
-Passed: [두 수의 합 구하기](../problems/120802-두-수의-합-구하기/README.md)
+Met 0 of 48, passed 0.
