@@ -38,3 +38,10 @@
 
 # The same file, from the phone.
 .obsidian/workspace-mobile.json
+
+# The rest of that editor's state, which the line above cannot reach: IntelliJ writes
+# <project>.iml at the ROOT, not inside .idea/. It lists every problem directory it has
+# indexed, so it outlives the records it names — measured on a repository whose history
+# had been cleared, still publishing four problem titles, two of them already deleted
+# (#323). Same escape hatch as the line above.
+*.iml
