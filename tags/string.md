@@ -1,11 +1,13 @@
 ---
 tag: string
 catalogTotal: 141
-attempted: 0
-solved: 0
-status: untouched
+attempted: 1
+solved: 1
+status: passed
 ---
 
 # string
 
-Met 0 of 141, passed 0.
+Met 1 of 141, passed 1.
+
+Passed: [문자열 돌리기](../problems/181945-문자열-돌리기/README.md)

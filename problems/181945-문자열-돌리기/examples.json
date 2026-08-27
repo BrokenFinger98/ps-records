@@ -1,0 +1,6 @@
+[
+    {
+        "input": "\"abcde\"",
+        "expected": "\"a\nb\nc\nd\ne\""
+    }
+]
