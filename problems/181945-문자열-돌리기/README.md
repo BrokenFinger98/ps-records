@@ -11,6 +11,7 @@ verdict: PASS
 attempts: 1
 runCount: 3
 elapsedSec: 677131
+focusedSec: 365
 firstSeen: 2026-08-28
 lastSubmit: 2026-08-28
 ---
@@ -23,9 +24,9 @@ Tags: [implementation](../../tags/implementation.md) [string](../../tags/string.
 
 ## Attempt history
 
-| # | Time | Verdict | Testcases | Elapsed | Diff |
-|---|---|---|---|---|---|
-| 1 | 08:45 | PASS | 3/3 | 188h05m31s | no |
+| # | Time | Verdict | Testcases | Since opened | Focused | Diff |
+|---|---|---|---|---|---|---|
+| 1 | 08:45 | PASS | 3/3 | 188h05m31s | 6m05s | no |
 
 ## Problem
 
