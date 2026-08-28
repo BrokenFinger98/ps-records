@@ -13,16 +13,16 @@
 
 입력 #1
 
-<div class="highlight">
- <pre class="codehilite"><code>abcde
-</code></pre>
-</div>출력 #1
+```
+abcde
+```
 
-<div class="highlight">
- <pre class="codehilite"><code>a
+출력 #1
+
+```
+a
 b
 c
 d
 e
-</code></pre>
-</div>
+```
