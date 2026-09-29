@@ -8,12 +8,12 @@ part: "SELECT"
 acceptanceRate: 91
 tags: ["implementation"]
 verdict: PASS
-attempts: 3
+attempts: 4
 runCount: 1
-elapsedSec: 2019
-focusedSec: 103
+elapsedSec: 79471
+focusedSec: 115
 firstSeen: 2026-09-29
-lastSubmit: 2026-09-29
+lastSubmit: 2026-09-30
 ---
 
 # 인기있는 아이스크림
@@ -27,7 +27,7 @@ Tags: [implementation](../../tags/implementation.md)
 | # | Time | Verdict | Testcases | Since opened | Focused | Diff |
 |---|---|---|---|---|---|---|
 | 1 | 10:20 | PASS | 1/1 | 1m25s | 1m00s | no |
-| 3 | 10:52 | PASS | 1/1 | 33m39s | 1m43s | no |
+| 4 | 08:23 | PASS | 1/1 | 22h04m31s | 1m55s | no |
 
 ## Problem
 
