@@ -8,10 +8,10 @@ part: "SELECT"
 acceptanceRate: 91
 tags: ["implementation"]
 verdict: PASS
-attempts: 2
+attempts: 3
 runCount: 1
-elapsedSec: 1759
-focusedSec: 93
+elapsedSec: 2019
+focusedSec: 103
 firstSeen: 2026-09-29
 lastSubmit: 2026-09-29
 ---
@@ -27,7 +27,7 @@ Tags: [implementation](../../tags/implementation.md)
 | # | Time | Verdict | Testcases | Since opened | Focused | Diff |
 |---|---|---|---|---|---|---|
 | 1 | 10:20 | PASS | 1/1 | 1m25s | 1m00s | no |
-| 2 | 10:48 | PASS | 1/1 | 29m19s | 1m33s | no |
+| 3 | 10:52 | PASS | 1/1 | 33m39s | 1m43s | no |
 
 ## Problem
 
