@@ -1,9 +1,10 @@
 # Problems
 
-8 problems recorded, 8 passed.
+9 problems recorded, 9 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [3월에 태어난 여성 회원 목록 출력하기](131120-3월에-태어난-여성-회원-목록-출력하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-01 |
 | [흉부외과 또는 일반외과 의사 목록 출력하기](132203-흉부외과-또는-일반외과-의사-목록-출력하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
 | [12세 이하인 여자 환자 목록 출력하기](132201-12세-이하인-여자-환자-목록-출력하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
 | [	조건에 맞는 도서 리스트 출력하기](144853-조건에-맞는-도서-리스트-출력하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
