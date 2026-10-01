@@ -1,9 +1,10 @@
 # Problems
 
-6 problems recorded, 6 passed.
+7 problems recorded, 7 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [12세 이하인 여자 환자 목록 출력하기](132201-12세-이하인-여자-환자-목록-출력하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
 | [	조건에 맞는 도서 리스트 출력하기](144853-조건에-맞는-도서-리스트-출력하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
 | [과일로 만든 아이스크림 고르기](133025-과일로-만든-아이스크림-고르기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
 | [인기있는 아이스크림](133024-인기있는-아이스크림/README.md) | 1 | database | mysql | PASS | 2 | 2026-09-30 |
