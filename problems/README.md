@@ -4,7 +4,7 @@
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
-| [업그레이드 된 아이템 구하기](273711-업그레이드-된-아이템-구하기/README.md) | 2 | database | mysql | PASS | 2 | 2026-10-03 |
+| [업그레이드 된 아이템 구하기](273711-업그레이드-된-아이템-구하기/README.md) | 2 | database | mysql | PASS | 3 | 2026-10-03 |
 | [조건에 맞는 회원수 구하기](131535-조건에-맞는-회원수-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [상위 n개 레코드](59405-상위-n개-레코드/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [여러 기준으로 정렬하기](59404-여러-기준으로-정렬하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
