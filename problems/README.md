@@ -1,9 +1,10 @@
 # Problems
 
-20 problems recorded, 20 passed.
+21 problems recorded, 21 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [상위 n개 레코드](59405-상위-n개-레코드/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [여러 기준으로 정렬하기](59404-여러-기준으로-정렬하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [동물의 아이디와 이름](59403-동물의-아이디와-이름/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [어린 동물 찾기](59037-어린-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
