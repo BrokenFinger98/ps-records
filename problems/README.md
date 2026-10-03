@@ -1,9 +1,10 @@
 # Problems
 
-18 problems recorded, 18 passed.
+19 problems recorded, 19 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [동물의 아이디와 이름](59403-동물의-아이디와-이름/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [어린 동물 찾기](59037-어린-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [아픈 동물 찾기](59036-아픈-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [오프라인/온라인 판매 데이터 통합하기](131537-오프라인-온라인-판매-데이터-통합하기/README.md) | 4 | database | mysql | PASS | 1 | 2026-10-03 |
