@@ -1,9 +1,10 @@
 # Problems
 
-15 problems recorded, 15 passed.
+16 problems recorded, 16 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [오프라인/온라인 판매 데이터 통합하기](131537-오프라인-온라인-판매-데이터-통합하기/README.md) | 4 | database | mysql | PASS | 1 | 2026-10-03 |
 | [역순 정렬하기](59035-역순-정렬하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-02 |
 | [모든 레코드 조회하기](59034-모든-레코드-조회하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-02 |
 | [재구매가 일어난 상품과 회원 리스트 구하기](131536-재구매가-일어난-상품과-회원-리스트-구하기/README.md) | 2 | database | mysql | PASS | 3 | 2026-10-02 |
