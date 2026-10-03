@@ -1,9 +1,10 @@
 # Problems
 
-24 problems recorded, 24 passed.
+25 problems recorded, 25 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [조건에 맞는 개발자 찾기](276034-조건에-맞는-개발자-찾기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-03 |
 | [Python 개발자 찾기](276013-python-개발자-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [업그레이드 된 아이템 구하기](273711-업그레이드-된-아이템-구하기/README.md) | 2 | database | mysql | PASS | 3 | 2026-10-03 |
 | [조건에 맞는 회원수 구하기](131535-조건에-맞는-회원수-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
