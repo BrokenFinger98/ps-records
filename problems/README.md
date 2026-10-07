@@ -4,6 +4,7 @@
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [아픈 동물 찾기](59036-아픈-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [역순 정렬하기](59035-역순-정렬하기/README.md) | 1 | database | mysql | WRONG | 2 | 2026-10-07 |
 | [모든 레코드 조회하기](59034-모든-레코드-조회하기/README.md) | 1 | database | mysql | RUNTIME_ERROR | 2 | 2026-10-07 |
 | [조건에 맞는 개발자 찾기](276034-조건에-맞는-개발자-찾기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-03 |
@@ -14,7 +15,6 @@
 | [여러 기준으로 정렬하기](59404-여러-기준으로-정렬하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [동물의 아이디와 이름](59403-동물의-아이디와-이름/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [어린 동물 찾기](59037-어린-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
-| [아픈 동물 찾기](59036-아픈-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [오프라인/온라인 판매 데이터 통합하기](131537-오프라인-온라인-판매-데이터-통합하기/README.md) | 4 | database | mysql | PASS | 3 | 2026-10-03 |
 | [재구매가 일어난 상품과 회원 리스트 구하기](131536-재구매가-일어난-상품과-회원-리스트-구하기/README.md) | 2 | database | mysql | PASS | 3 | 2026-10-02 |
 | [서울에 위치한 식당 목록 출력하기](131118-서울에-위치한-식당-목록-출력하기/README.md) | 4 | database | mysql | PASS | 1 | 2026-10-01 |

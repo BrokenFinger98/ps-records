@@ -1,4 +1,1 @@
-SELECT animal_id, name
-FROM animal_ins
-WHERE intake_condition = 'Sick'
-ORDER BY animal_id
+SELECT ANIMAL_ID, NAME FROM ANIMAL_INS WHERE INTAKE_CONDITION = 'Sick' ORDER BY ANIMAL_ID
