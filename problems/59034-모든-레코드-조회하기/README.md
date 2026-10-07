@@ -7,13 +7,13 @@ level: 1
 part: "SELECT"
 acceptanceRate: 84
 tags: ["implementation"]
-verdict: PASS
-attempts: 1
+verdict: RUNTIME_ERROR
+attempts: 2
 runCount: 1
-elapsedSec: 10673
-focusedSec: 43
+elapsedSec: 431280
+focusedSec: 74
 firstSeen: 2026-10-02
-lastSubmit: 2026-10-02
+lastSubmit: 2026-10-07
 ---
 
 # 모든 레코드 조회하기
@@ -27,6 +27,7 @@ Tags: [implementation](../../tags/implementation.md)
 | # | Time | Verdict | Testcases | Since opened | Focused | Diff |
 |---|---|---|---|---|---|---|
 | 1 | 12:38 | PASS | 1/1 | 2h57m53s | 0m43s | no |
+| 2 | 09:28 | RUNTIME_ERROR | 0/1 | 119h48m00s | 1m14s | yes |
 
 ## Problem
 

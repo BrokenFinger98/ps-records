@@ -27,6 +27,8 @@ Tags: [implementation](../../tags/implementation.md)
 | # | Time | Verdict | Testcases | Since opened | Focused | Diff |
 |---|---|---|---|---|---|---|
 | 1 | 10:20 | PASS | 1/1 | 1m25s | 1m00s | no |
+| 2 | 10:48 | PASS | 1/1 | 29m19s | 1m33s | no |
+| 3 | 10:52 | PASS | 1/1 | 33m39s | 1m43s | no |
 | 4 | 08:23 | PASS | 1/1 | 22h04m31s | 1m55s | no |
 
 ## Problem

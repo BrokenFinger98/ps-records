@@ -4,6 +4,7 @@
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [모든 레코드 조회하기](59034-모든-레코드-조회하기/README.md) | 1 | database | mysql | RUNTIME_ERROR | 2 | 2026-10-07 |
 | [조건에 맞는 개발자 찾기](276034-조건에-맞는-개발자-찾기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-03 |
 | [Python 개발자 찾기](276013-python-개발자-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [업그레이드 된 아이템 구하기](273711-업그레이드-된-아이템-구하기/README.md) | 2 | database | mysql | PASS | 3 | 2026-10-03 |
@@ -13,9 +14,8 @@
 | [동물의 아이디와 이름](59403-동물의-아이디와-이름/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [어린 동물 찾기](59037-어린-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [아픈 동물 찾기](59036-아픈-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
-| [오프라인/온라인 판매 데이터 통합하기](131537-오프라인-온라인-판매-데이터-통합하기/README.md) | 4 | database | mysql | PASS | 1 | 2026-10-03 |
+| [오프라인/온라인 판매 데이터 통합하기](131537-오프라인-온라인-판매-데이터-통합하기/README.md) | 4 | database | mysql | PASS | 3 | 2026-10-03 |
 | [역순 정렬하기](59035-역순-정렬하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-02 |
-| [모든 레코드 조회하기](59034-모든-레코드-조회하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-02 |
 | [재구매가 일어난 상품과 회원 리스트 구하기](131536-재구매가-일어난-상품과-회원-리스트-구하기/README.md) | 2 | database | mysql | PASS | 3 | 2026-10-02 |
 | [서울에 위치한 식당 목록 출력하기](131118-서울에-위치한-식당-목록-출력하기/README.md) | 4 | database | mysql | PASS | 1 | 2026-10-01 |
 | [강원도에 위치한 생산공장 목록 출력하기](131112-강원도에-위치한-생산공장-목록-출력하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
@@ -25,7 +25,7 @@
 | [12세 이하인 여자 환자 목록 출력하기](132201-12세-이하인-여자-환자-목록-출력하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
 | [	조건에 맞는 도서 리스트 출력하기](144853-조건에-맞는-도서-리스트-출력하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
 | [과일로 만든 아이스크림 고르기](133025-과일로-만든-아이스크림-고르기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-01 |
-| [인기있는 아이스크림](133024-인기있는-아이스크림/README.md) | 1 | database | mysql | PASS | 2 | 2026-09-30 |
+| [인기있는 아이스크림](133024-인기있는-아이스크림/README.md) | 1 | database | mysql | PASS | 4 | 2026-09-30 |
 | [평균 일일 대여 요금 구하기](151136-평균-일일-대여-요금-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-09-29 |
 | [홀짝 구분하기](181944-홀짝-구분하기/README.md) | 0 | algorithm | java | PASS | 1 | 2026-09-09 |
 | [문자열 돌리기](181945-문자열-돌리기/README.md) | 0 | algorithm | java | PASS | 1 | 2026-08-28 |
