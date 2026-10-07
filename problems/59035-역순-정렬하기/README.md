@@ -7,13 +7,13 @@ level: 1
 part: "SELECT"
 acceptanceRate: 91
 tags: ["implementation"]
-verdict: PASS
-attempts: 1
-runCount: 1
-elapsedSec: 37
-focusedSec: 30
+verdict: WRONG
+attempts: 2
+runCount: 6
+elapsedSec: 424289
+focusedSec: 94
 firstSeen: 2026-10-02
-lastSubmit: 2026-10-02
+lastSubmit: 2026-10-07
 ---
 
 # 역순 정렬하기
@@ -27,6 +27,7 @@ Tags: [implementation](../../tags/implementation.md)
 | # | Time | Verdict | Testcases | Since opened | Focused | Diff |
 |---|---|---|---|---|---|---|
 | 1 | 12:38 | PASS | 1/1 | 0m37s | 0m30s | no |
+| 2 | 10:06 | WRONG | 0/1 | 117h28m34s | 1m06s | yes |
 
 ## Problem
 
