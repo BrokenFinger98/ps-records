@@ -45,3 +45,8 @@
 # had been cleared, still publishing four problem titles, two of them already deleted
 # (#323). Same escape hatch as the line above.
 *.iml
+
+# What a crash leaves mid-write. The tracker writes a file whole beside itself, under
+# this name, and moves it over itself; stopped in between, it leaves this behind. Its own
+# commits leave the name out; this keeps it out of every other `git add` too (#386).
+.*.programmers-tracker.tmp
