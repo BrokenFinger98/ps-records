@@ -1,0 +1,138 @@
+# Reading your records
+
+**[한국어](GUIDE.ko.md)**
+
+How these Programmers solving records are laid out, and how to read them. They are written by
+[programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker), and the front page,
+[README.md](README.md), is the index of everything recorded.
+
+## Structure
+
+Written by the server after every run and submit:
+
+```
+README.md              The index: every problem, newest first. Rewritten every time — see below
+problems/README.md     The same index, for whoever browses into problems/
+problems/<lessonId>-<title>/
+├── README.md          Frontmatter + attempt history. Overwritten every time
+├── notes.md           Your mistake notes. The server never touches it
+├── Solution.<ext>     The latest code, one file per language
+├── runs.jsonl         Every code run: when, and the code it ran (verdicts are in the log)
+├── examples.json      The judge's own example inputs and expected outputs
+├── runner_test.<ext>  A runner built from those examples — see below
+└── attempts/          Per-submission code (NNN.<ext>) and raw frames (NNN.raw.jsonl)
+tags/<tag>.md          One note per problem type, with how many of it you have met
+dashboard.base         Obsidian tables over all of the above — see below
+log/submissions.jsonl  Full submission log (the source the MCP tools read)
+```
+
+**The front page is the index until you change it.** `README.md` is rewritten after every
+grading. Change what it says, or add to it, and it is yours: the server never writes it again,
+says so at each start, and the index carries on in `problems/README.md`. Delete it and the index
+comes back. **Edit any file here — the front page, your notes, this guide, the dashboard — in the
+clone the tracker writes to, never on github.com**: the server never pulls, so any commit made on the
+website makes every later push fail until you merge it by hand, and on the front page that merge
+conflicts wherever your edit meets the lines a grading rewrites.
+
+**`dashboard.base` is written once, on the first start that finds it missing, and never again.**
+It is an [Obsidian Base](https://help.obsidian.md/bases) — a *query*, not a copy of your records,
+so it cannot go stale. Seven tables — *Recent*, **Not passed yet**, *By attempts*, *By part*, *By kind* (algorithm
+against SQL), *By language*, *Tags*. Add a column or change a
+sort and the file is yours; the server will not touch it again.
+
+Everything else above is rewritten from the records every time.
+
+**Both `examples.json` and the runner need the judge's own examples, and only a *run* announces
+them** — so a problem you passed on the first submit, without pressing Run once, has neither.
+Running it once fills them in.
+
+The runner is generated for java, python3, cpp, javascript, kotlin, c and csharp; other
+languages get none, and the server logs why. Its own header carries the command to run it —
+`java RunnerTest.java`, `python3 runner_test.py`, and so on — and it is replaced after every
+run, so edits to it are lost. C# also gets a `runner_test.csproj` beside it.
+
+### What each dashboard table is for
+
+The file itself carries no comments explaining this, on purpose: **Obsidian rewrites
+`dashboard.base` the first time you open it and strips every comment out** (measured 2026-08-14 —
+the file changes the moment the view renders). A note that cannot survive being read is not a
+note, so it lives here instead.
+
+| table | why it exists |
+|---|---|
+| **Recent** | Newest first, because that is a fact rather than a claim. Every other ordering is a view you chose, not a verdict this vault reached |
+| **Not passed yet** | The point of the whole tool. A problem you failed and never came back to is invisible on Programmers' own scoreboard, which only remembers that you eventually solved it |
+| **By attempts** | Attempts and runs side by side. One submit after twenty runs, and twenty submits, are different stories — neither number tells it alone |
+| **By part** · **By language** | Where your work actually went, as opposed to where you think it went |
+| **By kind** | Algorithm and SQL are different practices: different protocols, runtimes that do not compare, and review plans that usually separate them |
+| **Tags** | The tag map as a table. `catalogTotal` is the denominator that keeps it honest — an untouched tag with one problem in the whole catalog and one with 38 are not the same gap |
+
+Two details that are easy to misread. The **Problem** column shows the *folder*, not the file
+name: every problem page is called `README.md`, so the folder — `120802-<slug>` — is what
+identifies it, and the readable title comes first. And **the server writes the numbers, never a
+judgement about them**: which of these tables is showing you a weakness is yours to say
+([the decision, and why](https://github.com/BrokenFinger98/programmers-tracker/blob/main/docs/llm-wiki/wiki/decisions/2026-08-12-the-server-counts-and-names-nothing.md)).
+
+## Viewing this as an Obsidian vault
+
+Open this folder as a vault and the graph shows your problem types. Each problem links to its
+tags, so a type you have submitted against sits in a cluster — and **a type you have never
+submitted against sits there alone.** That isolated node is the point: a view built only from
+your own records cannot show you a type you never met.
+
+Each `tags/<tag>.md` says how many problems the catalog has for it, which is what keeps the
+picture honest. A lone `tsp` node (one problem in the whole catalog) and a lone `dp` node (38)
+look identical in a graph and are not the same finding. The note also **links the problems its
+counts came from**, split into passed and not, so clicking a type takes you to the work.
+
+**Node size is how many of that type you have worked on.** Obsidian sizes a node by its links,
+and a tag's only links are your problems — so the big nodes are yours. Tags are deliberately not
+linked to each other: joining them by what the catalog tags alike made the catalog's hub types
+the biggest nodes on everyone's map, whoever they were.
+
+### Colouring the types you have never met
+
+A new vault is a field of lone dots, because you have not met anything yet. Rather than reading
+that as noise, colour it — in the graph view's settings (⚙), under **Groups**:
+
+| query | what it marks |
+|---|---|
+| `["status":"attempted"]` | **tried and not passed yet** — red is the obvious choice |
+| `["status":"untouched"]` | never met |
+| `["status":"passed"]` | cleared at least once |
+| `path:problems` | the problems themselves, so your own work stands out |
+| `["kind":"algorithm"]` | algorithm problems |
+| `["kind":"database"]` | SQL problems |
+
+Each tag note carries `status:` for exactly this — it is `attempted` and `solved` in one word, so
+a colour group is one exact match instead of an expression. All of it reads frontmatter this
+repository already writes: no plugin, and **nothing here decides which of those colours matters.**
+
+**Algorithm and SQL can also be two graphs rather than two colours.** Obsidian keeps its settings
+per pane, so splitting the graph tab (right-click → *Split right*) and putting `["kind":"algorithm"]`
+in one pane's **Filters** and `["kind":"database"]` in the other gives you both maps at once. It is
+worth doing once you have enough of each: their protocols differ, their runtimes are not
+comparable, and `dashboard.base` separates them for the same reason.
+
+`kind` is written from the channel the server subscribed on, so **records from before that field
+existed have none** and those notes join neither group. Until such a problem is solved again,
+`["language":"mysql"]` is what finds the SQL ones.
+
+**Times are in whatever clock the server runs on.** That is `TZ` in the tracker's `.env`, and
+unset it is UTC — so a history whose rows are all several hours off is a setting, not a capture
+bug. Rows written before you set it keep the clock they were written with; the instants are
+correct either way and nothing rewrites a record to change how it reads.
+
+**What counts as a gap is yours to decide.** The server writes the numbers and never names a
+weakness — no ranking, no threshold, no "start here". That is the AI's job, or yours.
+
+The frontmatter on each problem page carries tags, level and verdicts, so Obsidian's own
+search, properties and Bases work over it without any plugin. Dataview is not required and is
+not used.
+
+⚠️ `.ps/` is the tracker's working state — frames still being captured, per-problem timers,
+when the last push succeeded. It sits here so it is beside the records it describes, and
+`.gitignore` keeps it out of every commit. **Never commit it**: `.ps/raw/recorded/` keeps one
+file per code run, and a run gets pressed dozens of times while solving a single problem, so
+committing them would bury your solving history in its own scratch work. The server adds the
+rule itself on startup if your `.gitignore` predates it.
