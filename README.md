@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:a3d4bfb410d25e405d4699f2898e5d61ef77a19443fea98a96b430e7f6c57e1b -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:bdc7b744c257fd989452bd6bf6785fa9c15715e9ba1fd2d0ca29045f3315cbb2 -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-26 problems recorded, 26 passed.
+27 problems recorded, 27 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [가장 큰 물고기 10마리 구하기](problems/298517-가장-큰-물고기-10마리-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-13 |
 | [잔챙이 잡은 수 구하기](problems/293258-잔챙이-잡은-수-구하기/README.md) | 1 | database | mysql | PASS | 2 | 2026-10-13 |
 | [아픈 동물 찾기](problems/59036-아픈-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [역순 정렬하기](problems/59035-역순-정렬하기/README.md) | 1 | database | mysql | WRONG | 2 | 2026-10-07 |
