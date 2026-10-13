@@ -1,9 +1,10 @@
 # Problems
 
-25 problems recorded, 25 passed.
+26 problems recorded, 26 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [잔챙이 잡은 수 구하기](293258-잔챙이-잡은-수-구하기/README.md) | 1 | database | mysql | PASS | 2 | 2026-10-13 |
 | [아픈 동물 찾기](59036-아픈-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [역순 정렬하기](59035-역순-정렬하기/README.md) | 1 | database | mysql | WRONG | 2 | 2026-10-07 |
 | [모든 레코드 조회하기](59034-모든-레코드-조회하기/README.md) | 1 | database | mysql | RUNTIME_ERROR | 2 | 2026-10-07 |

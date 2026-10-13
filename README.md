@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:badb8264843aeedaedee3ec1c1de756173eaf4dd573d3adcd59c566bc4071434 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:a3d4bfb410d25e405d4699f2898e5d61ef77a19443fea98a96b430e7f6c57e1b -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-25 problems recorded, 25 passed.
+26 problems recorded, 26 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [잔챙이 잡은 수 구하기](problems/293258-잔챙이-잡은-수-구하기/README.md) | 1 | database | mysql | PASS | 2 | 2026-10-13 |
 | [아픈 동물 찾기](problems/59036-아픈-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
 | [역순 정렬하기](problems/59035-역순-정렬하기/README.md) | 1 | database | mysql | WRONG | 2 | 2026-10-07 |
 | [모든 레코드 조회하기](problems/59034-모든-레코드-조회하기/README.md) | 1 | database | mysql | RUNTIME_ERROR | 2 | 2026-10-07 |

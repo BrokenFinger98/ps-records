@@ -1,0 +1,2 @@
+{"recordId":"2026-10-13T16:43:43.960127377+09:00#c8f65baace7c23fe","language":"mysql","codeFetchedAt":"2026-10-13T16:43:44.853716919+09:00","code":"SELECT COUNT(*) AS FISH_COUNT\nFROM FISH_INFO\nWHERE LENGTH <= 10 OR LENGTH is null"}
+{"recordId":"2026-10-13T16:44:26.752886717+09:00#c8f65baace7c23fe","language":"mysql","codeFetchedAt":"2026-10-13T16:44:27.033818925+09:00","code":"SELECT COUNT(*) AS FISH_COUNT\nFROM FISH_INFO\nWHERE LENGTH is null"}
