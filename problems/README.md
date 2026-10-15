@@ -1,9 +1,10 @@
 # Problems
 
-27 problems recorded, 27 passed.
+28 problems recorded, 28 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [특정 물고기를 잡은 총 수 구하기](298518-특정-물고기를-잡은-총-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-15 |
 | [가장 큰 물고기 10마리 구하기](298517-가장-큰-물고기-10마리-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-13 |
 | [잔챙이 잡은 수 구하기](293258-잔챙이-잡은-수-구하기/README.md) | 1 | database | mysql | PASS | 2 | 2026-10-13 |
 | [아픈 동물 찾기](59036-아픈-동물-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-03 |
