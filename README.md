@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:87459fd28ddec3b072d2ada20747c8d23f3ce5fcf12b345a4cb9109d0102160d -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:62fc93c657c28c8f1a5f8b567565006670e143c32fc75ba638cecf84d6544c25 -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-28 problems recorded, 28 passed.
+29 problems recorded, 28 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [대장균들의 자식의 수 구하기](problems/299305-대장균들의-자식의-수-구하기/README.md) | 3 | database | mysql | — | 0 | — |
 | [특정 물고기를 잡은 총 수 구하기](problems/298518-특정-물고기를-잡은-총-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-15 |
 | [가장 큰 물고기 10마리 구하기](problems/298517-가장-큰-물고기-10마리-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-13 |
 | [잔챙이 잡은 수 구하기](problems/293258-잔챙이-잡은-수-구하기/README.md) | 1 | database | mysql | PASS | 2 | 2026-10-13 |
