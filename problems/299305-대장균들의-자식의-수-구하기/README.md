@@ -1,16 +1,19 @@
 ---
 lessonId: 299305
 title: "대장균들의 자식의 수 구하기"
+language: "mysql"
 kind: database
 level: 3
 part: "SELECT"
 acceptanceRate: 73
 tags: ["implementation"]
-attempts: 0
-runCount: 7
-elapsedSec: 1129
-focusedSec: 450
+verdict: PASS
+attempts: 1
+runCount: 15
+elapsedSec: 58627
+focusedSec: 977
 firstSeen: 2026-10-15
+lastSubmit: 2026-10-16
 ---
 
 # 대장균들의 자식의 수 구하기
@@ -21,7 +24,9 @@ Tags: [implementation](../../tags/implementation.md)
 
 ## Attempt history
 
-No submission yet.
+| # | Time | Verdict | Testcases | Since opened | Focused | Diff |
+|---|---|---|---|---|---|---|
+| 1 | 09:14 | PASS | 6/6 | 16h17m07s | 16m17s | no |
 
 ## Problem
 
