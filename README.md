@@ -1,4 +1,4 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:d6383ed2877e4769bcc2f7ecaf18da155f593bbd5ff239546dec9390d625b134 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:c6a405ffadb5f95421ed1fb124fcfaf6eb7cf57c79eb02a3cf84bf2df3138819 -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
@@ -7,7 +7,7 @@ Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-t
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
-| [특정 형질을 가지는 대장균 찾기](problems/301646-특정-형질을-가지는-대장균-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-16 |
+| [특정 형질을 가지는 대장균 찾기](problems/301646-특정-형질을-가지는-대장균-찾기/README.md) | 1 | database | mysql | PASS | 2 | 2026-10-16 |
 | [대장균의 크기에 따라 분류하기 1](problems/299307-대장균의-크기에-따라-분류하기-1/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-16 |
 | [대장균들의 자식의 수 구하기](problems/299305-대장균들의-자식의-수-구하기/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-16 |
 | [특정 물고기를 잡은 총 수 구하기](problems/298518-특정-물고기를-잡은-총-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-15 |
