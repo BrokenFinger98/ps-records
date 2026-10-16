@@ -1,9 +1,10 @@
 # Problems
 
-29 problems recorded, 29 passed.
+30 problems recorded, 30 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [대장균의 크기에 따라 분류하기 1](299307-대장균의-크기에-따라-분류하기-1/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-16 |
 | [대장균들의 자식의 수 구하기](299305-대장균들의-자식의-수-구하기/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-16 |
 | [특정 물고기를 잡은 총 수 구하기](298518-특정-물고기를-잡은-총-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-15 |
 | [가장 큰 물고기 10마리 구하기](298517-가장-큰-물고기-10마리-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-13 |
