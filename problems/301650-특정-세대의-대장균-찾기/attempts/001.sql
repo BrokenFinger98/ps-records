@@ -1,0 +1,6 @@
+SELECT ch.ID
+FROM ECOLI_DATA ch
+LEFT JOIN ECOLI_DATA pa ON ch.PARENT_ID = pa.ID
+LEFT JOIN ECOLI_DATA gpa ON pa.PARENT_ID = gpa.ID
+WHERE gpa.ID is not null and gpa.PARENT_ID is null
+ORDER BY ch.ID ASC

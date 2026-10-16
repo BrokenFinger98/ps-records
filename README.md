@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:c490092da14d42f79afc7c701f9b2d0ed7ec4df139802f74a1feae0c7b1261c1 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:470c978a7d6421ff9c584125cd83a2fb7cb88f9e9007e2c38bb28c7ceacf4eb6 -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-33 problems recorded, 33 passed.
+34 problems recorded, 34 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [특정 세대의 대장균 찾기](problems/301650-특정-세대의-대장균-찾기/README.md) | 4 | database | mysql | PASS | 1 | 2026-10-16 |
 | [대장균의 크기에 따라 분류하기 2](problems/301649-대장균의-크기에-따라-분류하기-2/README.md) | 3 | database | mysql | PASS | 2 | 2026-10-16 |
 | [부모의 형질을 모두 가지는 대장균 찾기](problems/301647-부모의-형질을-모두-가지는-대장균-찾기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-16 |
 | [특정 형질을 가지는 대장균 찾기](problems/301646-특정-형질을-가지는-대장균-찾기/README.md) | 1 | database | mysql | PASS | 2 | 2026-10-16 |
