@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:a9c56609b93a9950c4dcce87b2635f698a23a9dbde32ea06061ed60a2b9516a3 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:d6383ed2877e4769bcc2f7ecaf18da155f593bbd5ff239546dec9390d625b134 -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-30 problems recorded, 30 passed.
+31 problems recorded, 31 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [특정 형질을 가지는 대장균 찾기](problems/301646-특정-형질을-가지는-대장균-찾기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-16 |
 | [대장균의 크기에 따라 분류하기 1](problems/299307-대장균의-크기에-따라-분류하기-1/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-16 |
 | [대장균들의 자식의 수 구하기](problems/299305-대장균들의-자식의-수-구하기/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-16 |
 | [특정 물고기를 잡은 총 수 구하기](problems/298518-특정-물고기를-잡은-총-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-15 |
