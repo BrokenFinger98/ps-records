@@ -1,9 +1,10 @@
 # Problems
 
-31 problems recorded, 31 passed.
+32 problems recorded, 32 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [부모의 형질을 모두 가지는 대장균 찾기](301647-부모의-형질을-모두-가지는-대장균-찾기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-16 |
 | [특정 형질을 가지는 대장균 찾기](301646-특정-형질을-가지는-대장균-찾기/README.md) | 1 | database | mysql | PASS | 2 | 2026-10-16 |
 | [대장균의 크기에 따라 분류하기 1](299307-대장균의-크기에-따라-분류하기-1/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-16 |
 | [대장균들의 자식의 수 구하기](299305-대장균들의-자식의-수-구하기/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-16 |
