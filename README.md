@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:e60e2fa071af29db16015f1ee94b13b5a869e5576c33127d10aef5bb03c37208 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:d0c2054f807b58e03cdf7a8428347e7c8339135cba99f0d6444c69fdb10f35ba -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-36 problems recorded, 36 passed.
+37 problems recorded, 37 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [최댓값 구하기](problems/59415-최댓값-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
 | [가격이 제일 비싼 식품의 정보 출력하기](problems/131115-가격이-제일-비싼-식품의-정보-출력하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [가장 비싼 상품 구하기](problems/131697-가장-비싼-상품-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
 | [특정 세대의 대장균 찾기](problems/301650-특정-세대의-대장균-찾기/README.md) | 4 | database | mysql | PASS | 1 | 2026-10-16 |

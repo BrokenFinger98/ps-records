@@ -1,9 +1,10 @@
 # Problems
 
-36 problems recorded, 36 passed.
+37 problems recorded, 37 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [최댓값 구하기](59415-최댓값-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
 | [가격이 제일 비싼 식품의 정보 출력하기](131115-가격이-제일-비싼-식품의-정보-출력하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [가장 비싼 상품 구하기](131697-가장-비싼-상품-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
 | [특정 세대의 대장균 찾기](301650-특정-세대의-대장균-찾기/README.md) | 4 | database | mysql | PASS | 1 | 2026-10-16 |

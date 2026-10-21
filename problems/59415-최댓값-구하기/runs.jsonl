@@ -1,0 +1,1 @@
+{"recordId":"2026-10-22T08:54:56.821592086+09:00#9262630f8dbf8196","language":"mysql","codeFetchedAt":"2026-10-22T08:54:57.693792378+09:00","code":"select max(datetime) as 시간\nfrom animal_ins"}
