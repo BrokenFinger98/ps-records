@@ -1,0 +1,1 @@
+{"recordId":"2026-10-22T08:50:47.093180096+09:00#f16a704f1ecc7849","language":"mysql","codeFetchedAt":"2026-10-22T08:50:47.385819054+09:00","code":"select max(price) as max_price\nfrom product"}
