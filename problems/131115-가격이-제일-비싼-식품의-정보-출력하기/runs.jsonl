@@ -1,0 +1,1 @@
+{"recordId":"2026-10-22T08:52:08.309576883+09:00#aee0fed60852533b","language":"mysql","codeFetchedAt":"2026-10-22T08:52:08.579212467+09:00","code":"select product_id, product_name, product_cd, category, price\nfrom food_product\norder by price desc\nlimit 1"}
