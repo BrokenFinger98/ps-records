@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:60e37f85e70fcc9404ca6243e9b4a70d01d822d554cb7d0b2a4d3f073a411689 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:8d06fbea74b637caf04108f6efa1a47cbbc0c9c9d6d4afbf9af16f0429ddbc59 -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-40 problems recorded, 40 passed.
+41 problems recorded, 41 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [조건에 맞는 아이템들의 가격의 총합 구하기](problems/273709-조건에-맞는-아이템들의-가격의-총합-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [중복 제거하기](problems/59408-중복-제거하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [동물 수 구하기](problems/59406-동물-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [최솟값 구하기](problems/59038-최솟값-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |

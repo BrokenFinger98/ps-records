@@ -1,0 +1,1 @@
+{"recordId":"2026-10-22T09:23:36.910501591+09:00#8580f24db34b5e8a","language":"mysql","codeFetchedAt":"2026-10-22T09:23:38.060647008+09:00","code":"select sum(price) as total_price\nfrom item_info\nwhere rarity like 'LEGEND'"}
