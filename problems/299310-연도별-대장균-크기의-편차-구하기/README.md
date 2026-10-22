@@ -8,10 +8,10 @@ part: "SUM, MAX, MIN"
 acceptanceRate: 62
 tags: ["implementation"]
 verdict: PASS
-attempts: 1
-runCount: 3
-elapsedSec: 716
-focusedSec: 598
+attempts: 2
+runCount: 4
+elapsedSec: 1009
+focusedSec: 689
 firstSeen: 2026-10-22
 lastSubmit: 2026-10-22
 ---
@@ -27,6 +27,7 @@ Tags: [implementation](../../tags/implementation.md)
 | # | Time | Verdict | Testcases | Since opened | Focused | Diff |
 |---|---|---|---|---|---|---|
 | 1 | 10:40 | PASS | 6/6 | 11m56s | 9m58s | no |
+| 2 | 10:45 | PASS | 6/6 | 16m49s | 11m29s | yes |
 
 ## Problem
 

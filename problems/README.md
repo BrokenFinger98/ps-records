@@ -4,7 +4,7 @@
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
-| [연도별 대장균 크기의 편차 구하기 ](299310-연도별-대장균-크기의-편차-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
+| [연도별 대장균 크기의 편차 구하기 ](299310-연도별-대장균-크기의-편차-구하기/README.md) | 2 | database | mysql | PASS | 2 | 2026-10-22 |
 | [잡은 물고기 중 가장 큰 물고기의 길이 구하기](298515-잡은-물고기-중-가장-큰-물고기의-길이-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
 | [물고기 종류 별 대어 찾기](293261-물고기-종류-별-대어-찾기/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-22 |
 | [조건에 맞는 아이템들의 가격의 총합 구하기](273709-조건에-맞는-아이템들의-가격의-총합-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |

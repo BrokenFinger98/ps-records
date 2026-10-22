@@ -1,4 +1,4 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:a3802a80855b19b12060fbe1ae62f0569c4bda6268896b7c7060271614d8822b -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:e375ccb5dd53215ddb77978f17a50ba6edd3776ec671adda7124d9b7f22822fb -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
@@ -7,7 +7,7 @@ Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-t
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
-| [연도별 대장균 크기의 편차 구하기 ](problems/299310-연도별-대장균-크기의-편차-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
+| [연도별 대장균 크기의 편차 구하기 ](problems/299310-연도별-대장균-크기의-편차-구하기/README.md) | 2 | database | mysql | PASS | 2 | 2026-10-22 |
 | [잡은 물고기 중 가장 큰 물고기의 길이 구하기](problems/298515-잡은-물고기-중-가장-큰-물고기의-길이-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
 | [물고기 종류 별 대어 찾기](problems/293261-물고기-종류-별-대어-찾기/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-22 |
 | [조건에 맞는 아이템들의 가격의 총합 구하기](problems/273709-조건에-맞는-아이템들의-가격의-총합-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
