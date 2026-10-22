@@ -1,0 +1,2 @@
+{"recordId":"2026-10-22T10:27:52.214746875+09:00#efe6ffa7cfc295d1","language":"mysql","codeFetchedAt":"2026-10-22T10:27:52.606978667+09:00","code":"select max(length) as max_length\nfrom fish_info"}
+{"recordId":"2026-10-22T10:28:33.796675422+09:00#4af0e8ee5db99d4f","language":"mysql","codeFetchedAt":"2026-10-22T10:28:34.067313214+09:00","code":"select concat(max(length), 'cm') as max_length\nfrom fish_info"}

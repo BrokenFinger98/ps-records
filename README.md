@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:ba4b6c4b8ea13c072d4e82455fcaf4718a730c23744356e4632d3dfd16e2d2e9 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:301499132e9f7b458cf6449256a255db8324dec319911cfd731fd89cb384c76d -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-42 problems recorded, 42 passed.
+43 problems recorded, 43 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [잡은 물고기 중 가장 큰 물고기의 길이 구하기](problems/298515-잡은-물고기-중-가장-큰-물고기의-길이-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
 | [물고기 종류 별 대어 찾기](problems/293261-물고기-종류-별-대어-찾기/README.md) | 3 | database | mysql | PASS | 1 | 2026-10-22 |
 | [조건에 맞는 아이템들의 가격의 총합 구하기](problems/273709-조건에-맞는-아이템들의-가격의-총합-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [중복 제거하기](problems/59408-중복-제거하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
