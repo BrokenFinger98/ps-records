@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:5ed46e4ea8e91073610b11bc057b3ef87702bfff9e0204b3113e22c51abd412f -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:60e37f85e70fcc9404ca6243e9b4a70d01d822d554cb7d0b2a4d3f073a411689 -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-39 problems recorded, 39 passed.
+40 problems recorded, 40 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [중복 제거하기](problems/59408-중복-제거하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [동물 수 구하기](problems/59406-동물-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [최솟값 구하기](problems/59038-최솟값-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [최댓값 구하기](problems/59415-최댓값-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |

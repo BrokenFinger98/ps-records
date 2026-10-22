@@ -1,0 +1,1 @@
+{"recordId":"2026-10-22T09:18:55.010928793+09:00#ed1e09b807716009","language":"mysql","codeFetchedAt":"2026-10-22T09:18:55.307800419+09:00","code":"-- 코드를 입력하세요\nSELECT COUNT(DISTINCT NAME)\nFROM ANIMAL_INS"}

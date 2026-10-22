@@ -1,9 +1,10 @@
 # Problems
 
-39 problems recorded, 39 passed.
+40 problems recorded, 40 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [중복 제거하기](59408-중복-제거하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [동물 수 구하기](59406-동물-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [최솟값 구하기](59038-최솟값-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [최댓값 구하기](59415-최댓값-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
