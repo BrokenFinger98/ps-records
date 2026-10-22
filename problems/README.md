@@ -1,9 +1,10 @@
 # Problems
 
-38 problems recorded, 38 passed.
+39 problems recorded, 39 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [동물 수 구하기](59406-동물-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [최솟값 구하기](59038-최솟값-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
 | [최댓값 구하기](59415-최댓값-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
 | [가격이 제일 비싼 식품의 정보 출력하기](131115-가격이-제일-비싼-식품의-정보-출력하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-10-22 |
