@@ -1,0 +1,1 @@
+{"recordId":"2026-10-22T09:16:44.027260886+09:00#a194320d6fe2218c","language":"mysql","codeFetchedAt":"2026-10-22T09:16:44.364973219+09:00","code":"-- 코드를 입력하세요\nSELECT MIN(DATETIME)\nFROM ANIMAL_INS"}
