@@ -1,9 +1,10 @@
 # Problems
 
-46 problems recorded, 46 passed.
+47 problems recorded, 47 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](151137-자동차-종류-별-특정-옵션이-포함된-자동차-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [즐겨찾기가 가장 많은 식당 정보 출력하기](131123-즐겨찾기가-가장-많은-식당-정보-출력하기/README.md) | 3 | database | mysql | PASS | 1 | 2026-11-05 |
 | [진료과별 총 예약 횟수 출력하기](132202-진료과별-총-예약-횟수-출력하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [연도별 대장균 크기의 편차 구하기 ](299310-연도별-대장균-크기의-편차-구하기/README.md) | 2 | database | mysql | PASS | 2 | 2026-10-22 |
