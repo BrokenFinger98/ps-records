@@ -1,9 +1,10 @@
 # Problems
 
-48 problems recorded, 48 passed.
+49 problems recorded, 49 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [월별 잡은 물고기 수 구하기](293260-월별-잡은-물고기-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [물고기 종류 별 잡은 수 구하기](293257-물고기-종류-별-잡은-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](151137-자동차-종류-별-특정-옵션이-포함된-자동차-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [즐겨찾기가 가장 많은 식당 정보 출력하기](131123-즐겨찾기가-가장-많은-식당-정보-출력하기/README.md) | 3 | database | mysql | PASS | 1 | 2026-11-05 |
