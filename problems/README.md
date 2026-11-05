@@ -1,9 +1,10 @@
 # Problems
 
-49 problems recorded, 49 passed.
+50 problems recorded, 50 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [입양 시각 구하기(1)](59412-입양-시각-구하기-1/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [월별 잡은 물고기 수 구하기](293260-월별-잡은-물고기-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [물고기 종류 별 잡은 수 구하기](293257-물고기-종류-별-잡은-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](151137-자동차-종류-별-특정-옵션이-포함된-자동차-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |

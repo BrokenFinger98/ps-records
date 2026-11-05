@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:417f5148877a07f96a893208e009200578e37721364c31e8bb44b8825fd40b92 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:a225503c886bbbd04109d209d9c991689e43475955731531b86cae8138c8a5d8 -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-49 problems recorded, 49 passed.
+50 problems recorded, 50 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [입양 시각 구하기(1)](problems/59412-입양-시각-구하기-1/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [월별 잡은 물고기 수 구하기](problems/293260-월별-잡은-물고기-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [물고기 종류 별 잡은 수 구하기](problems/293257-물고기-종류-별-잡은-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](problems/151137-자동차-종류-별-특정-옵션이-포함된-자동차-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
