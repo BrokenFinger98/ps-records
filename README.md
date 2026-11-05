@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:e47f335cdd2edbf0464ffbc1762d682ab1f5bc46aefdeb03c3258332f3ce7d25 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:0a30faa24d08e58a17a6467580a10d11ffe2d1f82d9408f53aea9c3f6dac808e -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-45 problems recorded, 45 passed.
+46 problems recorded, 46 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [즐겨찾기가 가장 많은 식당 정보 출력하기](problems/131123-즐겨찾기가-가장-많은-식당-정보-출력하기/README.md) | 3 | database | mysql | PASS | 1 | 2026-11-05 |
 | [진료과별 총 예약 횟수 출력하기](problems/132202-진료과별-총-예약-횟수-출력하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [연도별 대장균 크기의 편차 구하기 ](problems/299310-연도별-대장균-크기의-편차-구하기/README.md) | 2 | database | mysql | PASS | 2 | 2026-10-22 |
 | [잡은 물고기 중 가장 큰 물고기의 길이 구하기](problems/298515-잡은-물고기-중-가장-큰-물고기의-길이-구하기/README.md) | 1 | database | mysql | PASS | 1 | 2026-10-22 |
