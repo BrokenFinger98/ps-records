@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:6d8b21d66f5cf66a0f7919e08f608e59f2532d0e3af4fdcb6dc44ed9df130331 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:4c52a4eb6680198a0e88da3eec246e36656c50f6f1677f50360b6b3b8dbc271d -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-47 problems recorded, 47 passed.
+48 problems recorded, 48 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [물고기 종류 별 잡은 수 구하기](problems/293257-물고기-종류-별-잡은-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](problems/151137-자동차-종류-별-특정-옵션이-포함된-자동차-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [즐겨찾기가 가장 많은 식당 정보 출력하기](problems/131123-즐겨찾기가-가장-많은-식당-정보-출력하기/README.md) | 3 | database | mysql | PASS | 1 | 2026-11-05 |
 | [진료과별 총 예약 횟수 출력하기](problems/132202-진료과별-총-예약-횟수-출력하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
