@@ -1,9 +1,10 @@
 # Problems
 
-50 problems recorded, 50 passed.
+51 problems recorded, 51 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [가격대 별 상품 개수 구하기](131530-가격대-별-상품-개수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-06 |
 | [입양 시각 구하기(1)](59412-입양-시각-구하기-1/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [월별 잡은 물고기 수 구하기](293260-월별-잡은-물고기-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [물고기 종류 별 잡은 수 구하기](293257-물고기-종류-별-잡은-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |

@@ -1,12 +1,13 @@
-<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:a225503c886bbbd04109d209d9c991689e43475955731531b86cae8138c8a5d8 -->
+<!-- Written by programmers-tracker. Change what this page shows and it is yours: it is never written again, and the index stays in problems/README.md. sha256:899aafa6e95ac3a2e1a8594f2ecf33f80819400cff156ea6e4ce789dfd106cc5 -->
 # Programmers solving records
 
 Written by [programmers-tracker](https://github.com/BrokenFinger98/programmers-tracker) after every grading. The guide: [English](GUIDE.md) · [한국어](GUIDE.ko.md).
 
-50 problems recorded, 50 passed.
+51 problems recorded, 51 passed.
 
 | Problem | Level | Kind | Language | Verdict | Submits | Last submit |
 |---|---|---|---|---|---|---|
+| [가격대 별 상품 개수 구하기](problems/131530-가격대-별-상품-개수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-06 |
 | [입양 시각 구하기(1)](problems/59412-입양-시각-구하기-1/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [월별 잡은 물고기 수 구하기](problems/293260-월별-잡은-물고기-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
 | [물고기 종류 별 잡은 수 구하기](problems/293257-물고기-종류-별-잡은-수-구하기/README.md) | 2 | database | mysql | PASS | 1 | 2026-11-05 |
